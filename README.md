@@ -1,7 +1,5 @@
-pdf2xls
-=======
-
 Install
+=======
 
 1)RVM install
 
@@ -19,6 +17,7 @@ Install
 
 
 Exécution
+=======
 
 a) ruby extractArrays.rb 
 Extract one pdf file to one xls sheet with one tab per tab
