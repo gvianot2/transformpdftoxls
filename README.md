@@ -8,7 +8,7 @@ Install
   - echo "source ~/.rvm/scripts/rvm" >> ~/.bashrc
 
 2) Tabula extractor install (https://github.com/tabulapdf/tabula-extractor)
-  - rvm install jruby
+  - rvm install jruby (tabula-extractor only works with JRuby 1.7 or newer)
   - jruby -S gem install tabula-extractor
 
 3) AXLSX install  (https://github.com/randym/axlsx)
