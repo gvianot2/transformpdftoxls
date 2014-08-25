@@ -12,7 +12,7 @@ Install
   - jruby -S gem install tabula-extractor
 
 3) AXLSX install  (https://github.com/randym/axlsx)
-  -gem install axlsx
+  - gem install axlsx
 
 
 Exécution
