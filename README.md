@@ -9,7 +9,7 @@ Install
 
 2) Tabula extractor install (https://github.com/tabulapdf/tabula-extractor)
   - rvm install jruby
-  -jruby -S gem install tabula-extractor
+  - jruby -S gem install tabula-extractor
 
 3) AXLSX install  (https://github.com/randym/axlsx)
   -gem install axlsx
