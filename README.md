@@ -18,12 +18,14 @@ Install
 
 Exécution
 =======
+  
+  Edit files to update the name of the directory and pdf to use
 
-a) ruby extractArrays.rb 
-Extract one pdf file to one xls sheet with one tab per tab
+  a) ruby extractArrays.rb 
+  Extract one pdf file to one xls sheet with one tab per tab 
 
 
-b)ruby extractArraysCsv.rb 
-Extract one pdf file to many csv files(one file per tab)
+  b)ruby extractArraysCsv.rb 
+  Extract one pdf file to many csv files(one file per tab)
 
 
