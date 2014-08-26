@@ -10,6 +10,7 @@ extractor = Tabula::Extraction::ObjectExtractor.new(pdf_dir_path + pdf_file_name
 i = 0
 extractor.extract.each do |pdf_page|
   pdf_page.spreadsheets.each do |spreadsheet|
+    #output filenames will be "inputfilename"+tab_id.csv
     out = open(pdf_file_name + i.to_s + ".csv", 'w')
     out << spreadsheet.to_csv
     out << "\n\n"

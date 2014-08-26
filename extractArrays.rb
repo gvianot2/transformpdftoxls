@@ -24,4 +24,5 @@ extractor.extract.each do |pdf_page|
   end
 
 end
+#output filename will be "inputfilename".xlsx
 p.serialize pdf_file_name+'.xlsx'
