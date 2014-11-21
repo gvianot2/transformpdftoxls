@@ -20,7 +20,7 @@ extractor.extract.each do |pdf_page|
      end
    end
     i +=1
-    
+      
   end
 
 end
