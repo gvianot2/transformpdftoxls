@@ -4,7 +4,7 @@ require 'axlsx'
 pdf_dir_path = "/home/giom/Bureau/Merlu/tabula/"
 pdf_file_name = "datatables_sampleall.pdf"
 
-
+dsdfsdfsdfsdfsdfsdfsfds
 
 extractor = Tabula::Extraction::ObjectExtractor.new(pdf_dir_path + pdf_file_name, :all )
 i = 0
